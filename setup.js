@@ -4,7 +4,7 @@ var map = L.map('map', {
 });
 
 
-<img src="/Users/shivamsrivastava/Desktop/School Files/Senior Year - Penn/Second Semester/ENVS 3700/Lab8-Interactive-Mapping/UIUC_logo.png">
+<img src="UIUC_logo.png">
 
 <h3> Mapping UIUC Campus </h3>
 
